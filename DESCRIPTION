@@ -20,3 +20,7 @@ Imports:
     stats,
     tidyr,
     utils
+VignetteBuilder: knitr
+Suggests: 
+    rmarkdown,
+    knitr
